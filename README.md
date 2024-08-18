@@ -87,7 +87,6 @@ Through the test, I made sure I kept everything fair by:
 
 - **Speed increase**: 74.45%
 - **Accuracy improvement**: 30%
-- ![Insert Graphs](#)
 
 ## Conclusion
 
